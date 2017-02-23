@@ -40,10 +40,7 @@ $(function(){
           "image":"https://dl.dropboxusercontent.com/u/11413212/1012161624_HDR.jpg"
 
         },
-        {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/1014160803_HDR.jpg"
-
-        },
+        
         {
           "image":"https://dl.dropboxusercontent.com/u/11413212/astronomy-1848864_1280.jpg"
 
