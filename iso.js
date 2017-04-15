@@ -39,10 +39,8 @@ $(function(){
           "image":"cupCakes.jpg"
 
         },
-        {
-          "image":"horseshoe-bend.jpg"
+        
 
-        },
         {
           "image":"Iguazu.jpg"
 
