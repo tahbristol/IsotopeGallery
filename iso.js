@@ -1,5 +1,8 @@
 $(function(){
+  $('.mod').on('click',function(){
+        $('#myModal').modal();
 
+  });
 
   /*--Isotope--*/
   var $grid = $('.grid').isotope({
@@ -25,51 +28,47 @@ $(function(){
 
   photos = [ //array of photo objects
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/1012161619_HDR.jpg"
+          "image":"astronomy.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/1012161622_HDR.jpg"
+          "image":"Bridge.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/1012161622a_HDR.jpg"
+          "image":"cupCakes.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/1012161624_HDR.jpg"
+          "image":"horseshoe-bend.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/1014160803_HDR.jpg"
+          "image":"Iguazu.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/astronomy-1848864_1280.jpg"
+          "image":"latte1.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/Bridge.jpg"
+          "image":"latte2.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/brucelee.jpg"
+          "image":"monks.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/cookie.jpg"
+          "image":"mountain.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/glassesOnDesk.jpg"
+          "image":"snow.jpg"
 
         },
         {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/notebookWin.jpg"
-
-        },
-        {
-          "image":"https://dl.dropboxusercontent.com/u/11413212/notepadNcoffee.jpg"
+          "image":"space.jpg"
 
         }
 

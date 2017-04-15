@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="keywords" />
 <meta name="description" />
-
+<link rel='stylesheet' href='modal.css' type='text/css'>
 <link rel='stylesheet' href='iso.css' type='text/css'>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
  integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -21,48 +21,112 @@
 <!--background-color:#EBE7E4 Tan color-->
 
 <body  style="background:white; height:100%; background-color:#EBE7E4">
+  <div class='container'>
+      <div class="row">
+            <div class='col-sm-12'>
+                <h1>Art Gallery</h1>
+            </div>
 
+      </div>
+      <div class='row'>
+        <div class='col-sm-12'>
+              <h4>Want to narrow things down?</h4>
+              <!-- Button trigger modal -->
+              <input id="keywords" placeholder="keywords"></input><button id="search">Search</button>
+                                           <button id="filter">Filter</button>
+
+        </div>
+      </div>
+
+  </div>
   <div class="grid">
   <div class="grid-sizer"></div>
   <div class="grid-item">
-    <img src="D:\Desktop\Programming\WebPhoto\Ali1.jpg" />
+    <img src="space.jpg" />
   </div>
   <div class="grid-item">
-    <img src="D:\Desktop\Programming\WebPhoto\Bamboo.jpg" />
+    <img src="snow.jpg" />
   </div>
   <div class="grid-item">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
+    <img src="astronomy.jpg" />
   </div>
   <div class="grid-item">
-    <img src="D:\Desktop\Programming\WebPhoto\CathedralClass.jpg" />
+    <img src="Bridge.jpg" />
   </div>
   <div class="grid-item">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
+    <img src="cupCakes.jpg" />
   </div>
   <div class="grid-item">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
+    <img src="horseshoe-bend.jpg" />
   </div>
   <div class="grid-item">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" />
+    <img src="Iguazu.jpg" />
   </div>
   <div class="grid-item">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" />
+    <img src="latte1.jpg" />
   </div>
   <div class="grid-item">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" />
+    <img src="latte2.jpg" />
   </div>
   <div class="grid-item">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" />
+    <img src="monks.jpg" />
   </div>
   <div class="grid-item">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" />
+    <img src="mountain.jpg" />
+  </div>
+  <div class="grid-item">
+    <img src="mountain.jpg" />
   </div>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<div class='container'>
+<div class='row'>
+
+
+<!-- Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+    Dropdown
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+    <li><a href="#">Action</a></li>
+    <li><a href="#">Another action</a></li>
+    <li><a href="#">Something else here</a></li>
+    <li role="separator" class="divider"></li>
+    <li><a href="#">Separated link</a></li>
+  </ul>
+</div>
+
+<div class="dropdown">
+<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+Dropdown
+<span class="caret"></span>
+</button>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li><a href="#">Action</a></li>
+<li><a href="#">Another action</a></li>
+<li><a href="#">Something else here</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="#">Separated link</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script src="iso.js"></script>
+<script src="modal.js"></script>
 
 <script>
 
