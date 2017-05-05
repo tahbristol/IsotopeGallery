@@ -389,7 +389,6 @@ $(document).ready(function() {
         displayImageGrid();
     }
     loadImages();
-
 });
 /*THE RUBY CODE TO MAKE THESE File name strings
 File.open('futureString.txt').each do |line|
