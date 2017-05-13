@@ -2,7 +2,7 @@ div.row {
   margin-top: 5px;
 }
 
-img {
+.img-default {
   margin:5px 0px;
   padding: 0px;
   min-width: 200px;
@@ -16,4 +16,11 @@ img {
 /*****Hover*****/
 img:hover {
   border: 3px solid lightblue !important;
+}
+
+
+/****Modal Images*****/
+.modal-image {
+  width: 500px !important;
+  height: 500px !important;
 }

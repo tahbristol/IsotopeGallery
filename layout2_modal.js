@@ -1,7 +1,9 @@
 $(document).ready(function(){
-
+  $('img').addClass('img-default');
   $('img').on('click',function(){
-    $(this).appendTo('.modal-content');
+     var image = $(this).attr('src');
+
+    $('.modal-content').append(`<img class="modal-image" src="${image}"/>`);
     $('#myModal').css('display', 'block');
   });
 
