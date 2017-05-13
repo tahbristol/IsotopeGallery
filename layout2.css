@@ -1,0 +1,13 @@
+div.row {
+  margin-top: 5px;
+}
+
+img {
+  margin:5px 0px;
+  padding: 0px;
+  min-width: 200px;
+  max-width: 200px;
+  min-height: 200px;
+  max-height: 200px;
+  border: 2px black solid !important;
+}
