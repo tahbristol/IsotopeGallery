@@ -372,6 +372,12 @@ $(document).ready(function() {
         displayImageGrid();
     }
     loadImages();
+
+
+
+
+/*********************************************/
+  /****Hover Effects****/
 });
 /*THE RUBY CODE TO MAKE THESE File name strings
 File.open('futureString.txt').each do |line|

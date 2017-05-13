@@ -11,3 +11,9 @@ img {
   max-height: 200px;
   border: 2px black solid !important;
 }
+
+
+/*****Hover*****/
+img:hover {
+  border: 3px solid lightblue !important;
+}
