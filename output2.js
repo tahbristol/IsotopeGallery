@@ -343,7 +343,7 @@ $(document).ready(function() {
             if (searchTerm == "") {
                 randNum = getRandomInt(0, photos.length - 1); //get random number range(0, length of photos array)
                 file = photos[randNum].image; //set image file to location
-                console.log("search :" + $('#keywords').val())
+
                 $(this).children().each(function() { //select image, iterate over each
 
                     //console.log($(this).attr('src', file));
@@ -351,9 +351,14 @@ $(document).ready(function() {
                     //  console.log(file)
                 });
             } else {
+              console.log(searchTerm);
                 tempArray = [];
                 for (var i = 0; i < photos.length; i++) {
-                    if (photos[i].age == searchTerm) {
+                    if (photos[i].country == searchTerm) {
+                      console.log(photos[i].image === "Children depict the Future/Argentina (Alejandro Goldzycher, 9).jpg");
+                      console.log(photos[i].image);
+                      console.log("Children depict the Future/Argentina (Alejandro Goldzycher, 9).jpg");
+
                         tempArray.push(photos[i])
                     }
                 }
@@ -362,7 +367,7 @@ $(document).ready(function() {
 
                 $(this).children().each(function() { //select image, iterate over each
 
-                    //console.log($(this).attr('src', file));
+
                     $(this).attr('src', file); //set image source to file location
 
                 });

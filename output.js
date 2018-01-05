@@ -353,11 +353,13 @@ $(document).ready(function() {
             } else {
                 tempArray = [];
                 for (var i = 0; i < photos.length; i++) {
-                    if (photos[i].age == searchTerm) {
+                    if (photos[i].country == searchTerm) {
                         tempArray.push(photos[i])
                     }
                 }
+
                 randNum = getRandomInt(0, tempArray.length - 1); //get random number range(0, length of photos array)
+
                 file = tempArray[randNum].image;
 
                 $(this).children().each(function() { //select image, iterate over each
