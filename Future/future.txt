@@ -1,0 +1,69 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7EF8-B91B
+
+ Directory of C:\Users\Tyler\Desktop\ArtFoundationPhotos\Children depict the Future
+
+04/29/2017  10:25 PM    <DIR>          .
+04/29/2017  10:25 PM    <DIR>          ..
+04/29/2017  10:12 PM         2,041,028 Albania (Giada Kuka, 10).jpg
+04/24/2017  03:23 PM         1,392,862 Albania_Giada_Kuka_10_.jpg
+04/29/2017  10:12 PM         2,256,232 Algeria (Ibtissem Lebsir, 9).jpg
+04/29/2017  10:12 PM         2,986,503 Andorra (Claudia Uno, 8).jpg
+04/29/2017  10:12 PM         2,479,770 Argentina (Alejandro Goldzycher, 9).jpg
+04/29/2017  10:12 PM         2,476,109 Azerbaijan (Tamara Mamedova, 11).jpg
+04/29/2017  10:13 PM         3,790,166 Barbados (Tobias Cummins,9).jpg
+04/29/2017  10:13 PM         2,785,437 Belarus (Lizaveta Lenkevich,9).jpg
+04/29/2017  10:13 PM         2,329,354 Benin (Emile Mavel,9).jpg
+04/29/2017  10:13 PM         2,983,550 Bosnia (Nelma  Sahinovic,12).jpg
+04/29/2017  10:13 PM         1,739,905 Botswana (Omphemetse Meshack,12).jpg
+04/29/2017  10:13 PM         1,084,539 Brazil (Anna Carolina Dos Santos Israel, 12).jpg
+04/29/2017  10:13 PM         2,309,424 Bulgaria (Desislava Kostova,10).jpg
+04/29/2017  10:13 PM         2,448,765 Chile (Vlviana Norambuena Torres,11).jpg
+04/29/2017  10:13 PM         1,990,818 China (Yu Keren,8).jpg
+04/29/2017  10:13 PM         1,855,947 Croatia (Masa Budimir,12).jpg
+04/29/2017  10:13 PM         2,491,114 Cuba (Yasmany Perez Suarez,10).jpg
+04/29/2017  10:13 PM         1,964,094 Denmark (Louise Wichman Madsen,10).jpg
+04/29/2017  10:13 PM         2,919,134 Ecuador (Maria Alejandra Garcia Buitrago,10).jpg
+04/29/2017  10:13 PM         1,938,176 Egypt (Sherry Atef Georgy,12).jpg
+04/29/2017  10:25 PM                 0 future.txt
+04/29/2017  10:13 PM         2,512,502 Gambia (Fatma Semega Janneh,11).jpg
+04/29/2017  10:13 PM         2,676,725 Georgia (Nino Bughadze,10).jpg
+04/29/2017  10:13 PM         3,136,970 Germany (Anne Langer,12).jpg
+04/29/2017  10:13 PM         1,791,010 Guyana (Alex Joseph,12).jpg
+04/29/2017  10:13 PM         1,856,848 Honduras (Bayron Alexander Del Cid,12).jpg
+04/29/2017  10:13 PM         2,475,459 Hungary (Ilona Halasi,11).jpg
+04/29/2017  10:14 PM         3,485,118 Indonesia (Francisca Candra,10).jpg
+04/29/2017  10:14 PM         1,593,661 Iran (Azadeh Samiei,10).jpg
+04/29/2017  10:14 PM           920,342 Jason Birmingham (age 11, Oregon).jpg
+04/29/2017  10:14 PM         2,511,243 Kazakhstan (Akhtoty Nurtanova,8).jpg
+04/29/2017  10:14 PM         2,379,335 Kyrgyz Republic (Gaper Diusheev,12).jpg
+04/29/2017  10:14 PM         3,600,587 Latvia (Martins Muzikants,11).jpg
+04/29/2017  10:14 PM         2,616,630 Lebanon (Lotfeh Mohamed El Masri,11).jpg
+04/29/2017  10:14 PM         1,478,886 Lesotho (Rethabile Makhakhe,11).jpg
+04/29/2017  10:14 PM            47,198 Liberia (Permanent Wilmont, age 11).jpg
+04/29/2017  10:14 PM         3,457,564 Lithuania (Mykolas Vasiliunas,9).jpg
+04/29/2017  10:14 PM         2,904,696 Macedonia (Emilija Stefanovska,10).jpg
+04/29/2017  10:14 PM         3,212,745 Maldives (Fathmath Ifthaan Maumoon,11).jpg
+04/29/2017  10:14 PM         3,208,076 Myanmar (Kaung Myat Zaw,12).jpg
+04/29/2017  10:14 PM         2,176,681 Nepal (Sagar Manadhar,12).jpg
+04/29/2017  10:14 PM         3,019,144 NewZealand(Amanda Montgomerie,11).jpg
+04/29/2017  10:14 PM            40,421 Palestine (Miryam Baadasa,11 ).jpg
+04/29/2017  10:14 PM         4,010,478 Serbia (Ivan Veljkovic, 11).jpg
+04/29/2017  10:14 PM         3,535,403 Sierra Leone (Sarran Kabba,11).jpg
+04/29/2017  10:14 PM         4,160,458 Turkey (Oguzcan Kaganoguzbeyoglu,12).jpg
+04/29/2017  10:14 PM         2,710,367 Turkmenistan (Tanya Mendikovskaya,12).jpg
+04/29/2017  10:15 PM         2,559,454 United Arab Emirates (Imar Mohhamed Hamer Saif,8).jpg
+04/29/2017  10:15 PM         3,013,888 UnitedStates, Wisconsin(Shellie Lee Korth,12).jpg
+04/29/2017  10:15 PM            62,826 USA, California (Jonathan Stearns, 12).jpg
+04/24/2017  02:23 PM           900,158 USA, California (Jonathan Stearns, 12).png
+04/29/2017  10:15 PM         3,041,580 USA, Florida (Camilla Cohen, 12).jpg
+04/24/2017  02:23 PM         1,767,596 USA, Indiana (Paige Marie Rothrock, 9).jpeg
+04/29/2017  10:15 PM           709,992 USA, Indiana (Paige Marie Rothrock, 9).jpg
+04/29/2017  10:15 PM         3,336,013 USA, Iowa (Derick Smith, 12).jpg
+04/29/2017  10:15 PM           110,453 USA, New Jersey (William Chen,10).jpg
+04/29/2017  10:15 PM         1,351,940 USA, Pennsylvania (Carson Beyl, age 8) high-res.jpg
+04/29/2017  10:15 PM         2,660,481 USA, Texas (Brenda Rodriguez, 11).jpg
+04/29/2017  10:15 PM         2,360,034 Vietnam (Thao Phuong Vu, 10).jpg
+04/29/2017  10:15 PM         4,240,148 Zambia (Evan Dice, 9).jpg
+              60 File(s)    137,896,037 bytes
+               2 Dir(s)  183,564,832,768 bytes free

@@ -1,40 +1,27 @@
 $(document).ready(function(){
+	let thumbnails = $('.thumbnail');
+
+	thumbnails.map(function(idx,thumbnail){
+		let caption = '';
+		let imageSrc = $(thumbnail.children[0]).attr('src');
+		let name, age;
+		[name, age] = imageSrc.match(/\((.+)\).+$/)[1].split(',');
+		
+		$(thumbnail).children().eq(1).html(`<p>Name: ${name}</p><p>Age: ${age}</p>`);
+	})
+	
   $('img').addClass('img-default');
   $('img').on('click',function(){
-     var image = $(this).attr('src');
+     let image = $(this).attr('src');
 
-    $('.modal-content').append(`<img class="modal-image" src="${image}"/>`);
+    $('#imgFocusContent').html(`<img class="modal-image" src="${image}"/>`);
+		let name, age;
+		[name, age] = image.match(/\((.+)\).+$/)[1].split(',');
+		$('#imageInfo').html(`<p>Name: ${name}</p><p>Age: ${age}</p>`);
     $('#myModal').css('display', 'block');
   });
 
-
-  // Get the modal
-var modal = document.getElementById('myModal');
-
-// Get the button that opens the modal
-var btn = document.getElementById("myBtn");
-
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-
-// When the user clicks on the button, open the modal
-btn.onclick = function() {
-
-
-    modal.style.display = "block";
-}
-
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
-    $('.modal-content').empty();
-}
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-          $('.modal-content').empty();
-    }
-}
+	$('.close').on('click', function(){
+		$('#myModal').hide();
+	});
 });

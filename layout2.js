@@ -314,6 +314,7 @@ $(document).ready(function() {
     var searchTerm = $('#keywords').val();
     $('#search').on('click', function() {
         searchTerm = $('#keywords').val();
+				debugger
         loadImages();
     });
 
@@ -326,7 +327,7 @@ $(document).ready(function() {
             if (searchTerm == "") {
                 randNum = getRandomInt(0, photos.length - 1); //get random number range(0, length of photos array)
                 file = photos[randNum].image; //set image file to location
-                console.log("search :" + $('#keywords').val())
+                //console.log("search :" + $('#keywords').val())
                 $(this).children().each(function() { //select image, iterate over each
 
                     //console.log($(this).attr('src', file));
@@ -372,9 +373,6 @@ $(document).ready(function() {
         displayImageGrid();
     }
     loadImages();
-
-
-
 
 /*********************************************/
   /****Hover Effects****/
